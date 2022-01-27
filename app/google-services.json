@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173080515101",
+    "project_id": "cafeteria-3ab40",
+    "storage_bucket": "cafeteria-3ab40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173080515101:android:60c82d98a7b8b280bf2cf4",
+        "android_client_info": {
+          "package_name": "com.adimer.sis.cafeteria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173080515101-17pc4men89e5h39jj4o9v1gq8s10vlhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLbRNitV9CA92Hv1ud6REmLVXAj0FHtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173080515101-17pc4men89e5h39jj4o9v1gq8s10vlhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
